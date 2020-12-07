@@ -20,7 +20,7 @@
 <img src="https://github.com/Wenceslau93/Data-Science-e-BI/blob/master/R/Prevendo%20Despesas%20Hospitalares/quantidade_dados_por_regiao.PNG?raw=true" alt="sometext"></br></br>
 
 <b>Visualizando correlação de váriaveis númericas:</b></br></br>
-<img src="https://github.com/Wenceslau93/Data-Science-e-BI/blob/master/R/Prevendo%20Despesas%20Hospitalares/Rplot01.PNG?raw=true" alt="sometext"></br></br>
+<img src="https://github.com/Wenceslau93/Data-Science-e-BI/blob/master/R/Prevendo%20Despesas%20Hospitalares/Rplot01.png?raw=true" alt="sometext"></br></br>
 
 Rplot01
 </body>
