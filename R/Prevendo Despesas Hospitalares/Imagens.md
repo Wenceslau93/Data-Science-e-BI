@@ -31,6 +31,8 @@
 <b>Avaliando o modelo:</b></br></br>
 <img src="https://github.com/Wenceslau93/Data-Science-e-BI/blob/master/R/Prevendo%20Despesas%20Hospitalares/avaliando_modelo.PNG?raw=true" alt="sometext"></br></br>
 
+<b>Realizando segunda previsão com várias mais importantes e avaliando o segundo modelo:</b></br></br>
+<img src="https://github.com/Wenceslau93/Data-Science-e-BI/blob/master/R/Prevendo%20Despesas%20Hospitalares/avaliando_modelo2.PNG?raw=true" alt="sometext"></br></br>
 
 </body>
 </html>
