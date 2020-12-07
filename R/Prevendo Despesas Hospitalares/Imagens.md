@@ -40,7 +40,7 @@
 <b>Previsao com novos dados, dados de teste:</b></br></br>
 <img src="https://github.com/Wenceslau93/Data-Science-e-BI/blob/master/R/Prevendo%20Despesas%20Hospitalares/novas_previsoes_script.PNG?raw=true" alt="sometext"></br></br>
 
-<b>Criando nova variável e arredondando a coluna preditora :</b></br></br>
+<b>Criando nova variável prev e arredondando os valores da nova coluna, onde foi realizado a nova previsão dos custos :</b></br></br>
 <img src="https://github.com/Wenceslau93/Data-Science-e-BI/blob/master/R/Prevendo%20Despesas%20Hospitalares/novas_previsoes.PNG?raw=true" alt="sometext"></br></br>
 
 novas_previsoes_script.PNG
