@@ -14,7 +14,7 @@
 <img src="https://github.com/Wenceslau93/Data-Science-e-BI/blob/master/R/Prevendo%20Despesas%20Hospitalares/tipo.PNG?raw=true" alt="sometext"></br></br>
 
 <b>Visualizando a frequência dos gastos através de gráfico:</b></br></br>
-<img src="https://github.com/Wenceslau93/Data-Science-e-BI/blob/master/R/Prevendo%20Despesas%20Hospitalares/Rplot.PNG?raw=true" alt="sometext"></br></br>
+<img src="https://github.com/Wenceslau93/Data-Science-e-BI/blob/master/R/Prevendo%20Despesas%20Hospitalares/Rplot.png?raw=true" alt="sometext"></br></br>
 
 <b>Visualizando a quantidade de dados de regiões:</b></br></br>
 <img src="https://github.com/Wenceslau93/Data-Science-e-BI/blob/master/R/Prevendo%20Despesas%20Hospitalares/quantidade_dados_por_regiao.PNG?raw=true" alt="sometext"></br></br>
