@@ -11,8 +11,6 @@ getwd()
 despesas <- read.csv("despesas.csv")
 View(despesas)
 
-<img src="https://github.com/Wenceslau93/Data-Science-e-BI/blob/master/R/Prevendo%20Despesas%20Hospitalares/Dados.PNG?raw=true" alt="sometext"></br></br>
-
 #Resumo
 
 summary(despesas)
