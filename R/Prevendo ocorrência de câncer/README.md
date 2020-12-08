@@ -6,6 +6,7 @@
 <center>
  
 <b>Visualizando as primeiras linhas do dataset:</b></b>
+
 O dataset tem muitas colunas, por esse motivo foi retirado vários prints.</br></b>
 Na sequencia das imagens abaixo, se refere a sequencia das colunas do dataset.</b></br></br>
 
