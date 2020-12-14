@@ -5,8 +5,9 @@
 
 <center>
 
-Regra de negócio e fonte do dataset:</b>
-<b>http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29</b>
+<b>Regra de negócio e fonte do dataset:</b></b>
+
+http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
 
 </b></b>
