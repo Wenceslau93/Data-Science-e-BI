@@ -27,5 +27,8 @@ Na sequência  das imagens abaixo, se refere a sequência  das colunas do datase
 <b>Excluindo a coluna ID e renomeando o nome do diagnóstico</b></b>
 <img src="https://github.com/Wenceslau93/Data-Science-e-BI/blob/master/R/Prevendo%20ocorr%C3%AAncia%20de%20c%C3%A2ncer/trocar.PNG?raw=true" alt="sometext"></br></br>
 
+<b>Convertendo os valores para Factor e visualizando a proporção 'Maligno' e 'Benigno' no dataset</b></b>
+<img src="https://github.com/Wenceslau93/Data-Science-e-BI/blob/master/R/Prevendo%20ocorr%C3%AAncia%20de%20c%C3%A2ncer/converte.PNG?raw=true" alt="sometext"></br></br>
+
 </body>
 </html>
