@@ -39,5 +39,8 @@ Na sequência  das imagens abaixo, se refere a sequência  das colunas do datase
 <b>Resultado utilizando a matrix de confusão(tabela cruzada). Tivemos acerto da previsão de 90% de acurácia.</b></b>
 <img src="https://github.com/Wenceslau93/Data-Science-e-BI/blob/master/R/Prevendo%20ocorr%C3%AAncia%20de%20c%C3%A2ncer/resultado.PNG?raw=true" alt="sometext"></br></br>
 
+<b>Apresentando novos dados para realizar a previsão.</b></b>
+<img src="https://github.com/Wenceslau93/Data-Science-e-BI/blob/master/R/Prevendo%20ocorr%C3%AAncia%20de%20c%C3%A2ncer/resultado_novos_dados.PNG?raw=true" alt="sometext"></br></br>
+
 </body>
 </html>
