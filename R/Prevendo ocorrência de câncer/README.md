@@ -33,8 +33,11 @@ Na sequência  das imagens abaixo, se refere a sequência  das colunas do datase
 <b>Normalizando os dados/b></b>
 <img src="https://github.com/Wenceslau93/Data-Science-e-BI/blob/master/R/Prevendo%20ocorr%C3%AAncia%20de%20c%C3%A2ncer/normalizando.PNG?raw=true" alt="sometext"></br></br>
 
-<b>Dividindo os dados em treino e teste. Treinando o modelo com o KNN/b></b>
-<img src="https://github.com/Wenceslau93/Data-Science-e-BI/blob/master/R/Prevendo%20ocorr%C3%AAncia%20de%20c%C3%A2ncer/treino_teste.PNG?raw=true" alt="sometext"></br></br>
+<b>Dividindo os dados em treino e teste. Treinando o modelo com o KNN</b></b>
+<img src="https://github.com/Wenceslau93/Data-Science-e-BI/blob/master/R/Prevendo%20ocorr%C3%AAncia%20de%20c%C3%A2ncer/treino_teste2.PNG?raw=true" alt="sometext"></br></br>
+
+<b>Resultado utilizando a matrix de confusão(tabela cruzada). Tivemos acerto da previsão de 90% de acurácia.</b></b>
+<img src="https://github.com/Wenceslau93/Data-Science-e-BI/blob/master/R/Prevendo%20ocorr%C3%AAncia%20de%20c%C3%A2ncer/resultado.PNG?raw=true" alt="sometext"></br></br>
 
 </body>
 </html>
