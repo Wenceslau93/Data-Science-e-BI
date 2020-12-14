@@ -4,7 +4,13 @@
 
 
 <center>
- 
+
+Regra de negócio e fonte do dataset:</b>
+<b>http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29</b>
+
+
+</b></b>
+
 <b>Visualizando as primeiras linhas do dataset:</b></b>
 
 O dataset tem muitas colunas, por esse motivo foi retirado vários prints.</br></b>
