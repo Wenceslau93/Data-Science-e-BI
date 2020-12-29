@@ -31,8 +31,8 @@ como as estatísticas ou o mesmo para criar novos produtos ou serviços utilizad
 </br>
 
 
-Após realizar o MapReduce através do código app.py feito em Python, dentro do arquivo parte-00000, 
-é possível verificar o resultado.
+<b>Após realizar o MapReduce através do código app.py feito em Python, dentro do arquivo parte-00000, 
+é possível verificar o resultado.</b>
 
 <b>Segue o resultado abaixo:</b>
 
