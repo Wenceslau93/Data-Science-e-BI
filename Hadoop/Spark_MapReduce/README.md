@@ -3,7 +3,7 @@ Através do framework Spark, é possível usar o MapReduce para verificar a quan
 que uma palavra aparece no texto. Neste exemplo é considerado a palavra se estiver seguido de .,!? ou de outro
 caractere parecido.
 
-Dentro do arquivo input.txt, contém um trecho do artigo:
+Dentro do arquivo input.txt, contém um trecho do artigo:</br>
 http://datascienceacademy.com.br/blog/cientista-de-dados-por-onde-comecar-em-8-passos/
 
 Segue o trecho abaixo:
