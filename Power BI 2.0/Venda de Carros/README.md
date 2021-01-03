@@ -4,7 +4,8 @@
 
 <center>
  
-Abrir o arquivo 1-EstudoCaso1.pdf. Neste arquivo, é explicado toda definição do Problema de Negócio.
+<b>Abrir o arquivo:</br> 1-EstudoCaso1.pdf.
+Neste arquivo, é explicado toda definição do Problema de Negócio.
 
 
 <b>Visualizando o Dashboard do projeto:</b></br></br>
