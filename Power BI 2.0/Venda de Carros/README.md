@@ -4,7 +4,7 @@
 
 <center>
  
-<b>Abrir o arquivo:</b> 1-EstudoCaso1.pdf.
+<b>Abrir o arquivo:</b><a href="https://github.com/Wenceslau93/Data-Science-e-BI/blob/master/Power%20BI%202.0/Venda%20de%20Carros/1-EstudoCaso1.pdf">1-EstudoCaso1.pdf</a>
 
 Neste arquivo, é explicado toda definição do Problema de Negócio.
 
