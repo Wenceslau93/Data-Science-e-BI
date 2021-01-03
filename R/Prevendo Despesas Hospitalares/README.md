@@ -43,5 +43,7 @@
 <b>Criando nova variável prev e arredondando os valores da nova coluna, onde foi realizado a nova previsão dos custos :</b></br></br>
 <img src="https://github.com/Wenceslau93/Data-Science-e-BI/blob/master/R/Prevendo%20Despesas%20Hospitalares/novas_previsoes.PNG?raw=true" alt="sometext"></br></br>
 
+</center>
+
 </body>
 </html>
