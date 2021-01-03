@@ -4,7 +4,7 @@
 
 <center>
  
-<b>Abrir o arquivo:</br> 1-EstudoCaso1.pdf.
+<b>Abrir o arquivo:</b> 1-EstudoCaso1.pdf.
 Neste arquivo, é explicado toda definição do Problema de Negócio.
 
 
